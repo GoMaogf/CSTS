@@ -1,0 +1,72 @@
+.ticket-title {
+	font-weight:bold;
+	font-size:20px;
+	margin-left:10px;
+}
+.answered {
+	font-size:10px;
+	color:#ffffff;
+	background-color:#7605;
+	margin:0px 0px 0px 5px;
+}
+body {
+	color: #5016ac;
+<<<<<<< HEAD
+	background-color: #C3E0E5;
+=======
+	background-color: rgba(22, 168, 204, 0.2);
+>>>>>>> 39e0dc25f8bd167959348b0f3220180ea855aaeb
+}
+
+/* Pang register container lang to ha? wag niyo galawin susuntukin ko kayo */
+.register-container {
+    max-width: 400px;
+    margin: 50px auto;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.register-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.register-container label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.register-container input[type="text"],
+.register-container input[type="email"],
+.register-container input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+.register-container input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+<<<<<<< HEAD
+    margin-left: 40%
+=======
+>>>>>>> 39e0dc25f8bd167959348b0f3220180ea855aaeb
+}
+
+.register-container input[type="submit"]:hover {
+    background-color: #45a049;
+}
+<<<<<<< HEAD
+
+=======
+>>>>>>> 39e0dc25f8bd167959348b0f3220180ea855aaeb
